@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">CalculadoraIp</string>
-    <string name="textview_slashinv">\</string>
+    <string name="textview_slash">/</string>
     <string name="button_calculate">Calculate</string>
     <string name="TextId">NetId</string>
     <string name="text_view_broad">Broadcast</string>
