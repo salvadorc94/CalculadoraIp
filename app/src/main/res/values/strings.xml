@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculadoraIp</string>
+    <string name="textview_slashinv">\</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="TextId">NetId</string>
+    <string name="text_view_broad">Broadcast</string>
+    <string name="text_view_canh">Available Host</string>
+    <string name="text_view_netp">NetPart</string>
+    <string name="edit_text_hint_ip">xxx.xxx.xxx.xxx</string>
+    <string name="edit_text_hint_mask">xx</string>
+    <string name="edit_text_hostp">HostPart</string>
+    <string name="botoncalc_text">Calculate</string>
+    <string name="botonres_text">reset</string>
+</resources>
