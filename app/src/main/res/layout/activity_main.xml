@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:maxLength="16"
+            android:maxLength="15"
             android:inputType="number"
             android:digits="0123456789."
             android:hint="@string/edit_text_hint_ip"
