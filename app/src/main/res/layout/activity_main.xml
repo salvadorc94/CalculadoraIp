@@ -21,6 +21,7 @@
             android:layout_weight="1"
             android:maxLength="16"
             android:inputType="number"
+            android:digits="0123456789."
             android:hint="@string/edit_text_hint_ip"
             android:textAlignment="center"
             />
@@ -35,7 +36,7 @@
             android:id="@+id/edit_text_mask"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
+            android:layout_weight="3"
             android:maxLength="2"
             android:hint="@string/edit_text_hint_mask"
             android:inputType="number"
